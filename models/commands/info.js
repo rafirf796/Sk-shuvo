@@ -32,7 +32,9 @@ var callback = () => api.sendMessage({body:` 𝐀𝐃𝐌𝐈𝐍 𝐀𝐍𝐃 �
 
 𝐁𝐎𝐓 𝐀𝐃𝐌𝐈𝐍 : 𝐉𝐎𝐘 𝐀𝐇𝐌𝐄𝐃
 
-𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 : 
+𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 : https://www.facebook.com/profile.php?id=100000121528628
+
+𝐀𝐃𝐃𝐑𝐄𝐒𝐒 : 𝐉𝐀𝐌𝐀𝐋𝐏𝐔𝐑
 
 𝐎𝐓𝐇𝐄𝐑 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐍𝐓𝐈𝐎𝐍
 
